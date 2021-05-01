@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Learning & Sharing - Projects, Ideas, Articles
 
 You can use the [editor on GitHub](https://github.com/siddhant45/BusinessStatsbySid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Welcome to this space, the purpose of this space is to learn together about Data Analytics/Machine Learning and its applications.
+
+In this space, we will share our knowledge about:
+
+Basics of Data Analytics in different domains such as Mergers & Acquisitions, Healthcare, Consumer & Retail etc.
+Business Statistics and its applications.
+Discuss different case studies and its applications in varied domains.
+Algorithms in Data Science and Machine Learning such as Regression Analysis, Decision Trees, Random Forest etc.
+Share analysis and articles from other platforms such as Medium, GitHub, Datacamp, Kaggle etc.
+Please feel free to post your content in this space. I would love to collaborate with each one of you and make this a fun learning.
 
 ### Markdown
 
